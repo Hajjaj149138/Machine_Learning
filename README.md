@@ -1,4 +1,4 @@
-			# Machine-Learning
+			# Face Mask Detection Using CNN
 
 The recent technological advancements in image processing and deep learning techniques have provided a vast range 
 of applications. This report presents a face mask detection system using AlexNet Deep Convolutional Neural Network (CNN). The
